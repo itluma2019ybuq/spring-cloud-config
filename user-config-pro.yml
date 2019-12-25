@@ -1,1 +1,4 @@
-
+server:
+  port: 41000
+wlkg:
+  name: james
