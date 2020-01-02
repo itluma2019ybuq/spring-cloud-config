@@ -1,2 +1,4 @@
-﻿spring:
+server:
+  
+spring:
   name: It's a fine day today. We'll have more classes!
