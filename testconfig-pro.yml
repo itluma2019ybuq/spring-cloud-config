@@ -1,4 +1,4 @@
 server:
-  
+  port: 8099
 spring:
   name: It's a fine day today. We'll have more classes!
